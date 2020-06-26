@@ -1,0 +1,21 @@
+
+kod 1000 ram        deðiþkenler1000ram
+	Freq 	:    	47.00Khz
+	Jitter 	:	560nS@1.1818mSec
+kod 2000 ram	    deðiþkenler1000ram
+	Freq : 	    	33.37Khz
+	Jitter 	:	808nS@1.1818mSec
+kod flash	    deðiþkenler1000ram
+	Freq : 	    	39.34Khz
+	Jitter 	:	616nS@1.1818mSec
+kod 1000 ram        deðiþkenler2000ram
+	Freq : 	    	48.98Khz
+	Jitter 	:	600nS@1.1818mSec
+kod 2000 ram	    deðiþkenler2000ram
+	Freq : 	    	33.37Khz
+	Jitter 	:	840nS@1.1818mSec
+kod flash	    deðiþkenler2000ram
+	Freq : 	    	39.35Khz
+	Jitter 	:	648nS@1.1818mSec
+
+* tüm deðiþkenler private static olarak tanýmlandý
